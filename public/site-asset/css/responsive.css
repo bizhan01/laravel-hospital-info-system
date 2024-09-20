@@ -1,0 +1,199 @@
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero-slides-content h2 {
+        font-size: 50px
+    }
+    .hero-area .owl-dots {
+        width: 930px
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .hero-slides-content h2 {
+        font-size: 50px
+    }
+    .hero-area .owl-dots {
+        width: 690px
+    }
+    .hero-area,
+    .single-hero-slide {
+        height: 600px !important
+    }
+    .top-header-social-info a {
+        margin-right: 10px
+    }
+    .navbar {
+        padding: 0
+    }
+    .navbar-toggler {
+        font-size: 14px;
+        background-color: transparent;
+        border: none;
+        border-radius: 6px;
+        height: 35px;
+        margin: 33px 0;
+        border: 2px solid #262626
+    }
+    #medicaMenu {
+        margin-top: -2px;
+        padding: 30px;
+        background-color: #fff;
+        z-index: 1002;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15)
+    }
+    .header-area .main-menu .nav-link {
+        padding: 5px 15px
+    }
+    .header-search-form form input {
+        width: 570px;
+        margin-bottom: 15px
+    }
+    .medica-appointment-thumb,
+    .medica-about-thumbnail,
+    .medica-blog-sidebar-area {
+        margin-top: 100px
+    }
+    .footer-menu li a {
+        padding: 0 10px
+    }
+    .breadcumb-area {
+        height: 200px
+    }
+    .contact-form {
+        margin-bottom: 100px
+    }
+}
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+    .top-header-area {
+        height: auto;
+        padding: 10px 0
+    }
+    .header-area {
+        height: auto
+    }
+    .top-menu ul li a {
+        padding: 0 5px;
+        font-size: 12px
+    }
+    .top-header-social-info {
+        margin-bottom: 10px;
+        margin-left: 5px
+    }
+    .navbar {
+        padding: 0
+    }
+    .navbar-toggler {
+        font-size: 14px;
+        background-color: transparent;
+        border: none;
+        border-radius: 6px;
+        height: 35px;
+        margin: 18px 0;
+        border: 2px solid #262626
+    }
+    #medicaMenu {
+        margin-top: -2px;
+        padding: 30px;
+        background-color: #fff;
+        z-index: 1002;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15)
+    }
+    .header-area .main-menu .nav-link {
+        padding: 5px 15px
+    }
+    .navbar-brand {
+        max-width: 100px
+    }
+    .header-search-form form input {
+        width: 100%;
+        margin-bottom: 15px;
+        font-size: 10px
+    }
+    .hero-slides-content h2 {
+        font-size: 30px
+    }
+    .hero-area .owl-dots {
+        width: 90%
+    }
+    .hero-area,
+    .single-hero-slide {
+        height: 500px !important
+    }
+    .hero-slides-content h5 {
+        font-size: 16px
+    }
+    .hero-area .owl-prev,
+    .hero-area .owl-next,
+    .medica-testimonials-area .owl-prev,
+    .medica-testimonials-area .owl-next {
+        width: 30px;
+        height: 30px;
+        line-height: 26px;
+        left: 20px;
+        margin-top: -15px
+    }
+    .hero-area .owl-next,
+    .medica-testimonials-area .owl-next {
+        left: auto;
+        right: 20px
+    }
+    .medica-btn {
+        height: 50px;
+        padding: 0 10px;
+        line-height: 46px;
+        font-size: 13px;
+        min-width: 100px
+    }
+    .medica-btn:hover,
+    .medica-btn:focus {
+        font-size: 13px
+    }
+    .medica-about-text ul li {
+        -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+                flex: 0 0 100%;
+        max-width: 100%
+    }
+    .medica-appointment-thumb,
+    .medica-about-thumbnail {
+        margin-top: 100px
+    }
+    .section_heading h2 {
+        font-size: 30px
+    }
+    .copywrite-text {
+        text-align: center
+    }
+    .bottom-footer-area {
+        padding: 15px 0;
+        height: auto
+    }
+    .footer-menu li a {
+        padding: 0 5px
+    }
+    .copywrite-text {
+        margin-bottom: 10px
+    }
+    .main-header-area {
+        height: 70px
+    }
+    .footer-menu ul {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center
+    }
+    .breadcumb-area {
+        height: 150px
+    }
+    .cta-content {
+        margin-bottom: 50px
+    }
+    .medica-services-sidebar-area,
+    .contact-form {
+        margin-bottom: 100px
+    }
+    .medica-blog-sidebar-area {
+        margin-top: 100px
+    }
+    .single-pie-bar {
+        margin-bottom: 30px
+    }
+}

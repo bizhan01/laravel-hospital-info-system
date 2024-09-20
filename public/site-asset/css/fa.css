@@ -1,0 +1,102 @@
+@import url('../font/vazir/vazir.css');
+
+* {
+    font-family: 'vazir';
+}
+h2 {
+    font-family: 'vazir';
+}
+a {
+    font-family: 'vazir';
+}
+.dir-auto {
+    direction: rtl;
+}
+.text-auto {
+    text-align: right;
+}
+.justify {
+    text-align: justify;
+}
+.is-invalid {
+    border-color: #ff0000 !important;
+}
+.color-red {
+    color: #ff0000;
+}
+
+/*attach file*/
+.c-upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.c-upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+/*end attach file*/
+
+.hint-primary {
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+}
+.hint-sm {
+    position: relative;
+    padding: 0.2rem 0.2rem;
+    margin-top: 0.1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    font-size: 10px;
+}
+.img-responsive {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.search-input {
+    background: #ccc;
+}
+
+.search-link{
+    padding: 10px;
+}
+.slide-show-title {
+    color: #eee;
+    font-size: 30px;
+}
+.slide-show-title-sm {
+    color: #eee;
+    font-size: 16px;
+}
+.text-center {
+    text-align: center
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.d-flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.block {
+    display: block !important;
+}
+
+.author img{
+    width: 50px !important;
+    height: 50px !important;
+}
+.bg-gray {
+    background-color: #eaeaea !important;
+}
+.footer-goals-ul li{
+    padding-top: 10px;
+    color: #777;
+}

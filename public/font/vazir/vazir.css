@@ -1,0 +1,21 @@
+/**
+*
+*	Name:			Vazir Font
+* 	Version       	1.1
+*	Author:			Abdullah Hussaini
+*	Created on:		Feb 19, 2019
+*	Updated on:
+*
+------------------------------------------------------------------------------
+**/
+@font-face {
+	font-family: vazir;
+	font-weight: normal;
+	font-style: normal;
+	src: url('vazir-font/Vazir-Bold-FD-WOL.eot');
+    src: url('vazir-font/Vazir-FD-WOL.woff'),
+    url('vazir-font/Vazir-Bold-FD-WOL.woff') format('woff'),
+    url('vazir-font/Vazir-Bold-FD-WOL.ttf') format('truetype'),
+	url('vazir-font/Vazir-FD-WOL.eot'),
+    url('vazir-font/Vazir-FD-WOL.ttf') format('truetype');
+}
